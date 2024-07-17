@@ -1,1 +1,3 @@
 Adding contents to second file
+
+Adding more contents to second file with tags info
